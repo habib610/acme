@@ -33,7 +33,18 @@
         "app/lib/utils.js",
         "app/page.jsx",
         "app/layout.jsx",
-        "app/lib/data.js"
+        "app/lib/data.js",
+        "app/ui/dashboard/cards.jsx",
+        "app/ui/customers/table.jsx",
+        "app/ui/dashboard/revenue-chart.jsx",
+        "app/ui/dashboard/latest-invoices.jsx",
+        "app/ui/invoices/breadcrumbs.jsx",
+        "app/ui/invoices/create-form.jsx",
+        "app/ui/button.jsx",
+        "app/ui/invoices/table.jsx",
+        "app/ui/invoices/status.jsx",
+        "app/ui/invoices/pagination.jsx",
+        "app/ui/invoices/edit-form.jsx"
     ],
     "exclude": ["node_modules"]
 }
